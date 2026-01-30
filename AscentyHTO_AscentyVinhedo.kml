@@ -15,7 +15,7 @@
 			</LabelStyle>
 			<LineStyle>
 				<color>ff58eeff</color>
-				<width>15</width>
+				<width>8</width>
 			</LineStyle>
 			<PolyStyle>
 				<color>40ffffff</color>
@@ -37,7 +37,7 @@
 			</LabelStyle>
 			<LineStyle>
 				<color>ff58eeff</color>
-				<width>10</width>
+				<width>6</width>
 			</LineStyle>
 			<PolyStyle>
 				<color>40ffffff</color>
