@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "Mapa sem título",
+"name": "Rotas Pop Villa Flora",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "Name": "RT.NOC TESTE", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ -47.206657834555351, -22.891960361922798, 0.000385316272169 ] } },
