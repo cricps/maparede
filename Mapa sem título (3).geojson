@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Mapa sem título",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "RT.NOC TESTE", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "LineString", "coordinates": [ [ -47.049146585617699, -22.91150334388028, 0.0 ], [ -47.223514093857439, -22.85838357855614, 0.0 ] ] } }
+]
+}
