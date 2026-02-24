@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "RT.NOC TESTE",
+        "hostname": "RT.NOC TESTE",
+        "description": "Ponto de Monitoramento NOC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.20914273687985,
+          -22.875760490677493
+        ]
+      }
+    }
+  ]
+}
