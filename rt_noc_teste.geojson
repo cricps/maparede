@@ -1,0 +1,26 @@
+{
+"type": "FeatureCollection",
+"name": "Backbone NOC",
+"features": [
+{
+"type": "Feature",
+"properties": {
+"id": "rt_noc_teste",
+"name": "RT.NOC TESTE"
+},
+"geometry": {
+"type": "LineString",
+"coordinates": [
+[-47.2217,-22.8584],
+[-47.2050,-22.8650],
+[-47.1850,-22.8750],
+[-47.1600,-22.8850],
+[-47.1350,-22.8950],
+[-47.1100,-22.9020],
+[-47.0900,-22.9045],
+[-47.0606,-22.9056]
+]
+}
+}
+]
+}
