@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Link Hortolândia - Campinas",
+        "host": "RT.NOC TESTE",
+        "status_item": "icmpping"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-47.2202, -22.8581], 
+          [-47.0608, -22.9064]  
+        ]
+      }
+    }
+  ]
+}
