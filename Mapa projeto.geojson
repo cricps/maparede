@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+"type": "Feature",
+"properties": {
+"host": "RT.NOC TESTE",
+"status": -1,
+"name": "Backbone Campinas - Hortolandia"
+},
+"geometry": {
+"type": "LineString",
+"coordinates": [
+[-47.0626,-22.9099],
+[-47.0755,-22.9040],
+[-47.0880,-22.8970],
+[-47.1015,-22.8890],
+[-47.1150,-22.8805],
+[-47.1280,-22.8715],
+[-47.1431,-22.8583]
+]
+}
+}
+]
+}
