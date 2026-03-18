@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {{range .}}
+    {
+      "type": "Feature",
+      "properties": {
+        "origem": "{{origem}}",
+        "destino": "{{destino}}",
+        "status": {{status_link}}
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [{{lon_origem}}, {{lat_origem}}],
+          [{{lon_destino}}, {{lat_destino}}]
+        ]
+      }
+    }{{if not @last}},{{end}}
+    {{end}}
+  ]
+}
