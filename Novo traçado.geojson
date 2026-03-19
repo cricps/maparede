@@ -5,8 +5,8 @@
       "type": "Feature",
       "properties": {
         "name": "Link Hortolândia - Campinas",
-        "host_vinculado": "RT.TESTE NOC",
-        "descricao": "Traçado de Fibra entre RT.TESTE NOC e RT.CRONCE-TESTE"
+        "host_vinculado": "RT.NOC TESTE",
+        "descricao": "Traçado de Fibra entre RT.NOC TESTE e RT.CRONCRE-TESTE"
       },
       "geometry": {
         "type": "LineString",
