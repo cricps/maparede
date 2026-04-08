@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "net.if.status[ifOperStatus.68190210]",
+      "properties": {
+        "name": "Link Campinas-Hortolândia",
+        "description": "Backbone Principal"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-47.20639187677278, -22.89182518794346],
+          [-47.20637665688218, -22.89170841732418],
+          // ... insira aqui todos os seus outros pontos ...
+          [-47.23412770893967, -22.89137576249284]
+        ]
+      }
+    }
+  ]
+}
